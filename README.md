@@ -61,7 +61,6 @@ The **HR Analysis Dashboard** is an interactive Power BI project designed to hel
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](E:\POWER BI PROJECTS)  
-*Replace this with your screenshot or GIF of the dashboard.*
 
 ---
 
