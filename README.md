@@ -1,8 +1,6 @@
 📊 Project Overview
 The **HR Analysis Dashboard** is an interactive Power BI project designed to help HR professionals visualize and analyze workforce data. It provides actionable insights into employee demographics, performance, recruitment, and attrition trends, enabling smarter, data-driven decisions.
 
----
-
 ✨ Key Features
 - **Employee Demographics:** Visualize distribution by age, gender, department, and location.  
 - **Attrition Analysis:** Track employee turnover and retention trends.  
