@@ -1,9 +1,9 @@
-## 📊 Project Overview
+📊 Project Overview
 The **HR Analysis Dashboard** is an interactive Power BI project designed to help HR professionals visualize and analyze workforce data. It provides actionable insights into employee demographics, performance, recruitment, and attrition trends, enabling smarter, data-driven decisions.
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 - **Employee Demographics:** Visualize distribution by age, gender, department, and location.  
 - **Attrition Analysis:** Track employee turnover and retention trends.  
 - **Performance Monitoring:** Identify top and low-performing employees.  
@@ -13,26 +13,26 @@ The **HR Analysis Dashboard** is an interactive Power BI project designed to hel
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 - **Visualization Tool:** Power BI  
 - **Data Source:** CSV, Excel, or SQL-based HR datasets  
 - **Techniques:** Interactive charts, slicers, drill-downs, KPI cards  
 
 ---
 
-## 🎯 Use Cases
+ 🎯 Use Cases
 - Monitor workforce trends and make strategic HR decisions.  
 - Predict attrition and plan retention strategies.  
 - Support recruitment planning and performance evaluation.  
 
 ---
 
-## 📊 Project Overview
+ 📊 Project Overview
 The **HR Analysis Dashboard** is an interactive Power BI project designed to help HR professionals visualize and analyze workforce data. It provides actionable insights into employee demographics, performance, recruitment, and attrition trends, enabling smarter, data-driven decisions.
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 - **Employee Demographics:** Visualize distribution by age, gender, department, and location.  
 - **Attrition Analysis:** Track employee turnover and retention trends.  
 - **Performance Monitoring:** Identify top and low-performing employees.  
@@ -42,29 +42,28 @@ The **HR Analysis Dashboard** is an interactive Power BI project designed to hel
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - **Visualization Tool:** Power BI  
 - **Data Source:** CSV, Excel, or SQL-based HR datasets  
 - **Techniques:** Interactive charts, slicers, drill-downs, KPI cards  
 
 ---
 
-## 🎯 Use Cases
+ 🎯 Use Cases
 - Monitor workforce trends and make strategic HR decisions.  
 - Predict attrition and plan retention strategies.  
 - Support recruitment planning and performance evaluation.
 - 
 ---
 
-## ⚡ How to Use
+ ⚡ How to Use
 1. Download the `.pbix` Power BI file.  
 2. Open it in Power BI Desktop.  
 3. Connect it to your HR dataset (CSV/Excel/SQL).  
 4. Interact with filters and slicers to explore insights.  
 
 ---
-
-## ⚡ How to Use
+⚡ How to Use
 1. Download the `.pbix` Power BI file.  
 2. Open it in Power BI Desktop.  
 3. Connect it to your HR dataset (CSV/Excel/SQL).  
